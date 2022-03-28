@@ -2,12 +2,6 @@
     "description": "Setting and location archetypes.",
     "settings": [
         {
-            "name": "void",
-            "synonyms": ["nowhere","nothingness"],
-            "qualities": ["empty","quiet","lonesome"],
-            "nature": "neutral"
-        },
-        {
             "name": "tavern",
             "synonyms": ["pub","inn","bar"],
             "qualities": ["social","educational","inspiring","busy"],
@@ -143,30 +137,6 @@
             "name": "labyrinth",
             "synonyms": ["maze"],
             "qualities": ["confusing","challenging","difficult"],
-            "nature": "evil"
-        },
-        {
-            "name": "day",
-            "synonyms": ["daytime","sunlight"],
-            "qualities": ["ordered","safe","enlightening","productive"],
-            "nature": "good"
-        },
-        {
-            "name": "night",
-            "synonyms": ["darkness","twilight"],
-            "qualities": ["dark","dangerous","chaotic","mysterious","playful"],
-            "nature": "evil"
-        },
-        {
-            "name": "dawn",
-            "synonyms": ["sunrise","morning"],
-            "qualities": ["emerging","awakening","enlightening","safe"],
-            "nature": "good"
-        },
-        {
-            "name": "dusk",
-            "synonyms": ["evening","sunset"],
-            "qualities": ["dark","dangerous","hiding"],
             "nature": "evil"
         },
         {
