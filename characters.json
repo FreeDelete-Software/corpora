@@ -5,252 +5,294 @@
             "name": "hero",
             "synonyms": ["protagonist"],
             "qualities": ["brave","willing","determined"],
+            "keywords": [""],
             "nature": "good"
         },
         {
             "name": "anti-hero",
             "synonyms": ["antagonist"],
             "qualities": ["unwilling","reluctant"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "analyst",
             "synonyms": ["reasoner"],
             "qualities": ["rational","logical"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "bureaucrat",
             "synonyms": ["lawyer","politician","manager"],
             "qualities": ["obedient"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "caretaker",
             "synonyms": ["healer","doctor","nurse"],
             "qualities": ["caring","healing"],
+            "keywords": [""],
             "nature": "good"
         },
         {
             "name": "catalyst",
             "synonyms": ["doer"],
             "qualities": ["dynamic","changeable","mercurial","unpredictable"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "coward",
             "synonyms": ["wimp"],
             "qualities": ["weak","craven","fearful"],
+            "keywords": [""],
             "nature": "evil"
         },
         {
             "name": "curmudgeon",
             "synonyms": ["grump"],
             "qualities": ["opinionated","cranky","resolute"],
+            "keywords": [""],
             "nature": "evil"
         },
         {
             "name": "mentor",
             "synonyms": ["elder","teacher","professor","parent"],
             "qualities": ["educating","guiding","helpful"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "shaman",
             "synonyms": ["guide","medium","soothsayer"],
             "qualities": ["mystical","mysterious"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "herald",
             "synonyms": ["hierophant","expositor"],
             "qualities": ["expositional","revealing"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "trickster",
             "synonyms": ["shapeshifter","magician","devil"],
             "qualities": ["confusing","egocentric","misleading","clever","manipulative"],
+            "keywords": [""],
             "nature": "evil"
         },
         {
             "name": "fool",
             "synonyms": ["joker","jester","idiot"],
             "qualities": ["thoughtless","silly","amusing"],
+            "keywords": [""],
             "nature": "evil"
         },
         {
             "name": "child",
             "synonyms": ["innocent","virgin","youth","ingenue"],
             "qualities": ["innocent","naive","simple","straightforward","credulous","endearing"],
+            "keywords": [""],
             "nature": "good"
         },
         {
             "name": "self",
             "synonyms": ["mirror-image"],
             "qualities": ["reflecting"],
+            "keywords": [""],
             "nature": "good"
         },
         {
             "name": "hermit",
             "synonyms": ["loner","introvert"],
             "qualities": ["quiet","secretive"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "wanderer",
             "synonyms": ["traveler","explorer"],
             "qualities": ["curious"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "hunter",
             "synonyms": ["seeker","tracker","detective","inspector"],
             "qualities": ["curious","dedicated","driven"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "judge",
             "synonyms": ["justice","magistrate","arbiter","sheriff","referee","examiner"],
             "qualities": ["fair","unbiased","patient"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "weaver",
             "synonyms": ["creator","spinner", "crafter"],
             "qualities": ["thorough","crafty"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "death",
             "synonyms": ["executioner"],
             "qualities": ["final","morbid","dark", "sombre"],
+            "keywords": [""],
             "nature": "evil"
         },
         {
             "name": "giver",
             "synonyms": ["benefactor"],
             "qualities": ["giving","generous","charitable","patronizing"],
+            "keywords": [""],
             "nature": "good"
         },
         {
             "name": "superhuman",
             "synonyms": ["god", "demigod"],
             "qualities": ["incredible"],
+            "keywords": [""],
             "nature": "good"
         },
         {
             "name": "dreamer",
             "synonyms": ["thinker"],
             "qualities": ["wishful","ambitious"],
+            "keywords": [""],
             "nature": "good"
         },
         {
             "name": "gossip",
             "synonyms": ["tattletale","whisperer","communicator"],
             "qualities": ["talkative","expositional","unfettered","egocentric"],
+            "keywords": [""],
             "nature": "evil"
         },
         {
             "name": "guardian",
             "synonyms": ["protector"],
             "qualities": ["strong","protective"],
+            "keywords": [""],
             "nature": "good"
         },
         {
             "name": "hedonist",
             "synonyms": ["pleasure-seeker"],
             "qualities": ["egocentric","short-sighted"],
+            "keywords": [""],
             "nature": "evil"
         },
         {
             "name": "leader",
             "synonyms": ["captain","general"],
             "qualities": ["inspiring", "compelling"],
+            "keywords": [""],
             "nature": "good"
         },
         {
             "name": "martyr",
             "synonyms": [],
             "qualities": ["self-sacrificing","noble"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "everyman",
             "synonyms": [],
             "qualities": ["common","typical","average","normal"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "poet",
             "synonyms": ["bard","singer","philosopher"],
             "qualities": ["thoughtful","lyrical","myterious","enlightening"],
+            "keywords": [""],
             "nature": "good"
         },
         {
             "name": "rebel",
             "synonyms": ["rogue","outsider","fighter"],
             "qualities": ["rebellious","questioning"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "slave",
             "synonyms": ["captive","laborer"],
             "qualities": ["trapped","abused","struggling","angry"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "samaritan",
             "synonyms": ["helper"],
             "qualities": ["selfless","generous","giving"],
+            "keywords": [""],
             "nature": "good"
         },
         {
             "name": "scholar",
             "synonyms": ["didact","academic","learner"],
             "qualities": ["thoughtful","curious","dedicated"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "survivor",
             "synonyms": ["escapee"],
             "qualities": ["determined","lucky","hurt"],
+            "keywords": [""],
             "nature": "good"
         },
         {
             "name": "sycophant",
             "synonyms": ["yes-man"],
             "qualities": ["predictable","affirmative","dependable"],
+            "keywords": [""],
             "nature": "evil"
         },
         {
             "name": "temptress",
             "synonyms": ["seductress"],
             "qualities": ["alluring","deceitful"],
+            "keywords": [""],
             "nature": "evil"
         },
         {
             "name": "tyrant",
             "synonyms": ["bully"],
             "qualities": ["dominating","demanding","angry","egocentric","dedicated"],
+            "keywords": [""],
             "nature": "evil"
         },
         {
             "name": "victim",
             "synonyms": ["sufferer","target"],
             "qualities": ["hurt","abused","injured","fearful"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "waif",
             "synonyms": ["weakling","ragamuffin","urchin"],
             "qualities": ["sickly","poor","neglected","abandoned"],
+            "keywords": [""],
             "nature": "neutral"
         },
         {
             "name": "minion",
             "synonyms": ["lackey","worker","employee"],
             "qualities": ["mindless","devoted","obedient"],
+            "keywords": [""],
             "nature": "neutral"
         }
     ]
