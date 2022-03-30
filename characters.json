@@ -72,8 +72,8 @@
             "nature": "neutral"
         },
         {
-            "name": "herald",
-            "synonyms": ["hierophant","expositor"],
+            "name": "hierophant",
+            "synonyms": ["herald","expositor"],
             "qualities": ["expositional","revealing"],
             "keywords": ["revelation","vision","truth"],
             "nature": "neutral"
