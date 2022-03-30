@@ -81,15 +81,15 @@
         {
             "name": "trickster",
             "synonyms": ["shapeshifter","magician","devil"],
-            "qualities": ["confusing","egocentric","misleading","clever","manipulative"],
-            "keywords": ["upheaval","giddiness","impasse"],
+            "qualities": ["confusing","misleading","clever","manipulative"],
+            "keywords": ["upheaval","impasse"],
             "nature": "evil"
         },
         {
             "name": "fool",
             "synonyms": ["joker","jester","idiot"],
             "qualities": ["thoughtless","silly","amusing"],
-            "keywords": ["inexperience"],
+            "keywords": ["inexperience","giddiness"],
             "nature": "neutral"
         },
         {
@@ -257,7 +257,7 @@
             "name": "tyrant",
             "synonyms": ["bully"],
             "qualities": ["dominating","demanding","angry","egocentric","dedicated"],
-            "keywords": ["oppression","totality","selfishness"],
+            "keywords": ["oppression","totality","selfishness","egocentric"],
             "nature": "evil"
         }
     ]
